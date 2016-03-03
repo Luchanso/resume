@@ -1,0 +1,132 @@
+{
+  "basics": {
+    "name": "Luchansky Oleg",
+    "label": "JavaScript programmer",
+    "picture": "",
+    "email": "oleg@loutchansky.com",
+    "phone": "+7 (921) 334-57-71",
+    "website": "https://github.com/Luchanso",
+    "summary": "Программирую на JavaScript (Node) около 3-х лет, для сборки использую grunt/babel, люблю git. Учусь на 4 курсе СПбГУТ по специальности электроника и наноэлектроника. По характеру спокойный, не пью и не курю, занимаюсь спортом. В свободное время пишу игры с использованием Haxe/OpenFL.",
+    "location": {
+      "address": "Valdai str. home 150",
+      "postalCode": "",
+      "city": "Saint - Petersburg",
+      "countryCode": "RU",
+      "region": "Leningrad region"
+    },
+    "profiles": [
+      {
+        "network": "vk",
+        "username": "loutchansky",
+        "url": "https://vk.com/loutchansky"
+      },
+      {
+        "network": "github",
+        "username": "luchanso",
+        "url": "https://github.com/Luchanso"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Bonch Forum",
+      "position": "Chief Developer",
+      "website": "https://bnch.ru",
+      "startDate": "2015-12-01",
+      "endDate": "",
+      "summary": "Студенческий форум, использующий NodeBB с кучей изменений и дополнений.",
+      "highlights": [
+        "Разработал Bot систему",
+        "Исправил ошибки ядра",
+        "Проведена интеграция соц. сетей и медиа ресурсов"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NodeBB",
+      "position": "Plugin Developer",
+      "website": "https://nodebb.org",
+      "startDate": "2014-11-01",
+      "endDate": "2015-01-01",
+      "summary": "Разрабатывал Email плагин",
+      "highlights": [
+        "Разработал поддержку SSL ",
+        "Добавил отправку писем через gmail",
+        "Добавил отправку писем через Yandex"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "SPbSUT",
+      "area": "Electronic Technology",
+      "studyType": "Bachelor",
+      "startDate": "2012-06-01",
+      "endDate": "2016-06-01",
+      "gpa": "4.63",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Code Academy Contest",
+      "date": "2015-11-08",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Jade",
+        "Stylus",
+        "Async",
+        "Mocha"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Master",
+      "keywords": [
+        "Haxe",
+        "OpenFL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Middle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "keywords": []
+    },
+    {
+      "name": "Web",
+      "keywords": []
+    },
+    {
+      "name": "Game Dev",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
