@@ -6,7 +6,7 @@
     "email": "oleg@loutchansky.com",
     "phone": "+7 (921) 334-57-71",
     "website": "https://github.com/Luchanso",
-    "summary": "Программирую на JavaScript (Node) около 3-х лет, для сборки использую grunt/babel, люблю git. Учусь на 4 курсе СПбГУТ по специальности электроника и наноэлектроника. По характеру спокойный, не пью и не курю, занимаюсь спортом. В свободное время пишу игры с использованием Haxe/OpenFL.",
+    "summary": "Программирую на JavaScript (Node) около 3-х лет, для сборки использую grunt, люблю git. Учусь на 4 курсе СПбГУТ по специальности электроника и наноэлектроника. По характеру спокойный, не пью и не курю, занимаюсь спортом. В свободное время пишу игры с использованием Haxe/OpenFL.",
     "location": {
       "address": "Valdai str. home 150",
       "postalCode": "",
@@ -31,9 +31,9 @@
     {
       "company": "Bonch Forum",
       "position": "Chief Developer",
-      "website": "https://bnch.ru",
+      "website": "https://github.com/BonchForum",
       "startDate": "2015-12-01",
-      "endDate": "",
+      "endDate": "2016-03-13",
       "summary": "Студенческий форум, использующий NodeBB с кучей изменений и дополнений.",
       "highlights": [
         "Разработал Bot систему",
