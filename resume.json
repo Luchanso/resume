@@ -6,10 +6,10 @@
     "email": "oleg@loutchansky.com",
     "phone": "+7 (921) 334-57-71",
     "website": "https://github.com/Luchanso",
-    "summary": "Программирую на JavaScript (Node) около 3-х лет, для сборки использую grunt, люблю git. Учусь на 4 курсе СПбГУТ по специальности электроника и наноэлектроника. По характеру спокойный, не пью и не курю, занимаюсь спортом. В свободное время пишу игры с использованием Haxe/OpenFL.",
+    "summary": "Программирую на JavaScript (Node) около 3-х лет, люблю использовать gulp и git. По характеру спокойный, не пью и не курю. В свободное время пишу игры с использованием ES6 + JS + Phaser",
     "location": {
       "address": "Valdai str. home 150",
-      "postalCode": "",
+      "postalCode": "196626",
       "city": "Saint - Petersburg",
       "countryCode": "RU",
       "region": "Leningrad region"
@@ -49,11 +49,22 @@
       "website": "https://nodebb.org",
       "startDate": "2014-11-01",
       "endDate": "2015-01-01",
-      "summary": "Разрабатывал Email плагин",
+      "summary": "Разрабатывал Email модуль",
       "highlights": [
         "Разработал поддержку SSL ",
-        "Добавил отправку писем через gmail",
-        "Добавил отправку писем через Yandex"
+        "Добавил отправку писем через Gmail и Yandex"
+      ]
+    },
+    {
+      "organization": "Livecoding.tv",
+      "position": "JavaScript Mentor",
+      "website": "https://livecoding.tv/luchanso",
+      "startDate": "2016-09-01",
+      "endDate": "today",
+      "summary": "",
+      "highlights": [
+        "https://github.com/Luchanso/3angle",
+        "https://github.com/Luchanso/bunny-funny-runner"
       ]
     }
   ],
@@ -64,15 +75,15 @@
       "studyType": "Bachelor",
       "startDate": "2012-06-01",
       "endDate": "2016-06-01",
-      "gpa": "4.63",
+      "gpa": "4.83",
       "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Code Academy Contest",
+      "title": "Codingame Contest",
       "date": "2015-11-08",
-      "awarder": "",
+      "awarder": "53th place",
       "summary": ""
     }
   ],
@@ -88,7 +99,9 @@
         "Jade",
         "Stylus",
         "Async",
-        "Mocha"
+        "Mocha",
+        "Gulp",
+        ""
       ]
     },
     {
@@ -96,7 +109,8 @@
       "level": "Master",
       "keywords": [
         "Haxe",
-        "OpenFL"
+        "OpenFL",
+        "Phaser.JS"
       ]
     }
   ],
@@ -107,12 +121,12 @@
     },
     {
       "language": "English",
-      "fluency": "Middle"
+      "fluency": "Fluent"
     }
   ],
   "interests": [
     {
-      "name": "Sport",
+      "name": "Slackline",
       "keywords": []
     },
     {
