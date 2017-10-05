@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Luchansky Oleg",
-    "label": "JavaScript programmer",
-    "picture": "",
+    "label": "JavaScript engineer",
+    "picture": "https://avatars1.githubusercontent.com/u/2098777?v=4&s=460",
     "email": "oleg@loutchansky.com",
     "phone": "+7 (921) 334-57-71",
     "website": "https://github.com/Luchanso",
-    "summary": "Программирую на JavaScript (Node) около 3-х лет, люблю использовать gulp и git. По характеру спокойный, не пью и не курю. В свободное время пишу игры с использованием ES6 + JS + Phaser",
+    "summary": "Программирую на JavaScript (Node/React) около 3-х лет, люблю использовать последние версии технологий и git. По характеру спокойный, не пью и не курю. В свободное время пишу игры с использованием ES6 + JS + Phaser",
     "location": {
       "address": "Valdai str. home 150",
       "postalCode": "196626",
@@ -14,11 +14,10 @@
       "countryCode": "RU",
       "region": "Leningrad region"
     },
-    "profiles": [
-      {
-        "network": "vk",
-        "username": "loutchansky",
-        "url": "https://vk.com/loutchansky"
+    "profiles": [{
+        "network": "facebook",
+        "username": "oleg.loutchansky",
+        "url": "https://facebook.com/oleg.loutchansky"
       },
       {
         "network": "github",
@@ -27,23 +26,34 @@
       }
     ]
   },
-  "work": [
-    {
-      "company": "Bonch Forum",
-      "position": "Chief Developer",
-      "website": "https://github.com/BonchForum",
-      "startDate": "2015-12-01",
-      "endDate": "2016-03-13",
-      "summary": "Студенческий форум, использующий NodeBB с кучей изменений и дополнений.",
-      "highlights": [
-        "Разработал Bot систему",
-        "Исправил ошибки ядра",
-        "Проведена интеграция соц. сетей и медиа ресурсов"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
+  "work": [{
+    "company": "IQ Option",
+    "position": "Front/Back - end developer",
+    "website": "https://iqoption.com",
+    "startDate": "2016-11-07",
+    "endDate": "2017-10-03",
+    "summary": "Разработал систему чатов с нуля",
+    "highlights": [
+      "Внедрил gitlab pipeline",
+      "Переписал системное меню для CRM на React",
+      "Подключил Sentry",
+      "Добавил в проекты ESLint & Prettier",
+      "Предложил использовать React 16"
+    ]
+  }, {
+    "company": "Bonch Forum",
+    "position": "Chief Developer",
+    "website": "https://github.com/BonchForum",
+    "startDate": "2015-12-01",
+    "endDate": "2016-03-13",
+    "summary": "Студенческий форум, использующий NodeBB с кучей изменений и дополнений.",
+    "highlights": [
+      "Разработал Bot систему",
+      "Исправил ошибки ядра",
+      "Проведена интеграция соц. сетей и медиа ресурсов"
+    ]
+  }],
+  "volunteer": [{
       "organization": "NodeBB",
       "position": "Plugin Developer",
       "website": "https://nodebb.org",
@@ -71,28 +81,36 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "SPbSUT",
-      "area": "Electronic Technology",
-      "studyType": "Bachelor",
-      "startDate": "2012-06-01",
-      "endDate": "2016-06-01",
-      "gpa": "4.83",
-      "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Codingame Contest",
-      "date": "2015-11-08",
-      "awarder": "53th place",
-      "summary": ""
-    }
-  ],
+  "education": [{
+    "institution": "SPbSUT",
+    "area": "Electronic Technology",
+    "studyType": "Bachelor",
+    "startDate": "2012-06-01",
+    "endDate": "2016-06-01",
+    "gpa": "4.83",
+    "courses": []
+  }],
+  "awards": [{
+    "title": "Codingame Contest",
+    "date": "2015-11-08",
+    "awarder": "53th place",
+    "summary": ""
+  }],
   "publications": [],
-  "skills": [
-    {
+  "skills": [{
+      "name": "Back - end development",
+      "level": "Middle",
+      "keywords": [
+        "Node",
+        "Cassandra",
+        "PostgreSQL",
+        "Redis",
+        "Mongo",
+        "Async/Await",
+        "Arrow functions",
+        "Spread operator"
+      ]
+    }, {
       "name": "Web Development",
       "level": "Master",
       "keywords": [
@@ -104,7 +122,12 @@
         "Async",
         "Mocha",
         "Gulp",
-        ""
+        "Jest",
+        "React",
+        "Vue",
+        "Styled - Componets",
+        "Socket.IO",
+        "Webpack"
       ]
     },
     {
@@ -117,8 +140,7 @@
       ]
     }
   ],
-  "languages": [
-    {
+  "languages": [{
       "language": "Russian",
       "fluency": "Native speaker"
     },
@@ -129,20 +151,16 @@
   ],
   "interests": [
     {
-      "name": "Slackline",
-      "keywords": []
+      "name": "Open Source",
+      "keywords": ["odota/ui", "ornicar/lila", "facebook/react"]
     },
     {
       "name": "Programming",
-      "keywords": []
-    },
-    {
-      "name": "Web",
-      "keywords": []
+      "keywords": ["React", "ESNext"]
     },
     {
       "name": "Game Dev",
-      "keywords": []
+      "keywords": ["Phaser", "Pixi", "HTML5"]
     }
   ],
   "references": []
