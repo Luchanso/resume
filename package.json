@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-    "start": "resume export index.html --theme slick && resume export resume.pdf",
+    "start": "resume export index.html --theme slick ",
     "view": "./index.html"
   },
   "repository": "git@github.com:Luchanso/resume.git",
   "author": "Luchanso <luchansodev@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-slick": "^0.1.16",
+    "resume-cli": "^0.4.19"
+  }
 }
