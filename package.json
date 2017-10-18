@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.html",
   "scripts": {
-    "start": "resume export index.html --theme slick ",
+    "start": "resume export index.html --theme slick && resume export resume.pdf",
     "view": "./index.html"
   },
   "repository": "git@github.com:Luchanso/resume.git",
