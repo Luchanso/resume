@@ -1,19 +1,15 @@
 {
   "basics": {
     "name": "Luchansky Oleg",
-    "label": "JavaScript engineer",
+    "label": "Fullstack Engineer",
     "picture": "https://avatars1.githubusercontent.com/u/2098777?v=4&s=460",
-    "email": "oleg@loutchansky.com",
-    "phone": "+7 (921) 334-57-71",
+    "email": "luchansodev@gmail.com",
+    "phone": "+7 (977) 991-91-12",
     "website": "https://github.com/Luchanso",
     "summary":
-      "Программирую на JavaScript (Node/React) свыше 3-х лет, программированием в целом занимаюсь с детства, с 15 лет (7 лет+) люблю использовать последние версии технологий и git. Для постановки задач предпочитаю использовать таск трекеры, если мне что - то не понятно, то сразу уточняю у руковоства или клиента. Для работы необходим только стол, удобный стул и хороший компьютер/ноут. Стараюсь разрабатывать гибко, чтобы потом не пришлось переписывать. В свободное время уваствую в OpenSource https://opendota.com и занимаюсь собственными проектами.",
+      "Tech. lead with 2 years experienece with a team of six Full Stack developers including myself. I've been developing in JS / TS with React and NodeJS for over 5 years. I have worked with C++ and C# for about three years. Today I learn Rust / DevOps / ML. My requests is comfortable chair and a Mac Book Pro. Focused on the business and its goals. I appreciate openness, honesty and creativity in my work. I practice: TOC, Agile, Scrum, Lean, XP, Kaizen. My code, project style and all automation can be viewed on the github. Not ready to work with conflicting people. In free time I read books, investing, communicate with friends, launch mini startups, skiing. I'am interested of philosophy particulary stoicism. Sometimes I like to cook delicious meals.",
     "location": {
-      "address": "Valdai str. home 150",
-      "postalCode": "196626",
-      "city": "Saint - Petersburg",
-      "countryCode": "RU",
-      "region": "Leningrad region"
+      "city": "Moscow"
     },
     "profiles": [
       {
@@ -30,19 +26,61 @@
   },
   "work": [
     {
+      "company": "Inno Tech (vendor company)",
+      "position": "Frontend Developer & part time Scrum Master",
+      "website": "https://inno.tech",
+      "startDate": "2021-03-01",
+      "endDate": "Present",
+      "summary": "The co-creator of the microfrontend in the VTB bank's divisions. I'm engaged in the development of Internet Bank for individuals persons (80% of the time), the rest of the time do agile integration and team facilitation",
+      "highlights": [
+        "TypeScript",
+        "React",
+        "Redux",
+        "Microfrontend",
+        "Accessibility",
+        "ARIA",
+        "Module Federation",
+        "Team City",
+        "Webpack",
+        "Babel"
+      ]
+    },
+    {
+      "company": "Alfa-Bank",
+      "position": "Tech. Lead",
+      "website": "https://alfabank.ru",
+      "startDate": "2017-11-01",
+      "endDate": "2021-03-01",
+      "summary": "Worked in Payments team. Development of an Internet bank for business using Typescript / React / Redux + NodeJS. I conduct interviews, create business metrics monitoring, create an internal tool for monitoring dependencies in all bank. A couple of times I spoke at meetups, and also wrote an article in the corporate blog on habr.com.",
+      "highlights": [
+        "TypeScript",
+        "React",
+        "Redux",
+        "ELK Stack",
+        "MongoDB",
+        "Thrift",
+        "Bamboo",
+        "Ansible",
+        "Webpack",
+        "Babel"
+      ]
+    },
+    {
       "company": "IQ Option",
-      "position": "Front/Back - end developer",
+      "position": "Fullstack developer",
       "website": "https://iqoption.com",
       "startDate": "2016-11-07",
       "endDate": "2017-10-03",
-      "summary": "Сначала разрабатывал backend на NodeJS для чатов  между трейдерами, затем перешёл к разработке админики и чатов для тех. поддержки, всё разрабатывал с нуля. Был опыт командной работы Agile/Scrum.",
+      "summary": "For half a year, I developed from scratch the server and CRM part of chats between traders and chats for those. support. Used NodeJS, MongoDB, PostgreSQL, Microservice archichecture, Gitlab Actions, on the front: React / Redux.",
       "highlights": [
+        "Gitlab CI",
+        "PostgreSQL",
+        "MongoDB",
+        "Sentry",
         "React 16v",
         "React Thunk",
         "React Actions",
-        "Sentry",
         "Antd",
-        "Gitlab CI",
         "ESLint & Prettier",
         "Webpack",
         "Babel",
@@ -56,11 +94,11 @@
       "startDate": "2015-12-01",
       "endDate": "2016-03-13",
       "summary":
-        "Студенческий форум, использующий NodeBB с кучей изменений и дополнений.",
+        "Student forum, wich use NodeBB",
       "highlights": [
-        "Разработал Bot систему",
-        "Исправил ошибки ядра",
-        "Проведена интеграция соц. сетей и медиа ресурсов"
+        "Develope Bot System",
+        "Fixed Bugs in NodeBB",
+        "Added social media integrations"
       ]
     }
   ],
@@ -71,10 +109,10 @@
       "website": "https://nodebb.org",
       "startDate": "2014-11-01",
       "endDate": "2015-01-01",
-      "summary": "Разрабатывал Email модуль",
+      "summary": "Develope Email module",
       "highlights": [
-        "Разработал поддержку SSL",
-        "Добавил отправку писем через Gmail и Yandex"
+        "Added Supporting SSL",
+        "Added send emails via Gmail and Yandex"
       ]
     },
     {
